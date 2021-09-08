@@ -19,4 +19,29 @@ div {
 img {
     border-top: #c2c7cfdc;
     border-radius: 100%;
+    width: "300px";
+    border: "2px;
+ solid gray";
+ padding="10px";
+}
+
+.first {
+    font-style: italic;
+    color: rgb(223, 114, 114);
+}
+
+.second {
+    font-style: oblique;
+    color: rgb(196, 118, 55);
+}
+
+#third {
+    background-color: rgb(59, 90, 177);
+}
+
+[title] {
+    cursor: help;
+    padding-bottom: 10px;
+    border-bottom: 5px dotted whitesmoke;
+    /* text-decoration: none; */
 }
